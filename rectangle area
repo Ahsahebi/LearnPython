@@ -1,0 +1,4 @@
+Width = int(input())
+Length = int(input())
+Area = Width * Length
+print(Area)
