@@ -3,7 +3,7 @@ def divisor(a):
     for i in range(1, 1+a):
         if a % i == 0 :
             b += 1
-        return b
+    return b
 Count_max= 0
 for j in range (20):
     Num = int(input())
